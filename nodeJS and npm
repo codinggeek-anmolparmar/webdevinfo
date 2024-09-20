@@ -1,0 +1,3 @@
+So nodejs is basically the browser engine for your code editor so you can use the Javascript for the backend and make a server.js file where you can write all your backend stuff moreover for adding any node modules or any other persons code you can use npm 
+By using npm init you can make a package.json file where all the info regarding the entry file or the dependencies are there
+you can use npm install #nameofthelibrary and then enter and all the nodemodules regarding that will be installed.
